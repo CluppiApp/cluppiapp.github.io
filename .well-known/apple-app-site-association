@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["TEAMID_PLACEHOLDER.app.cluppi.ios"],
+        "appIDs": ["K2V3788L4G.app.cluppi.ios"],
         "components": [
           { "/": "/join/*", "comment": "Group invite links" }
         ]
